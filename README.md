@@ -1,13 +1,13 @@
-🚗 Car Sales Dashboard – Power BI Project
-📌 Project Overview
+🚗 Car Sales Dashboard – Power BI Project/n
+📌 Project Overview/n
 Welcome to the Car Sales Dashboard project! This Power BI dashboard is designed for our car dealership to provide dynamic, interactive, and real-time insights into our sales performance. By visualizing key metrics and trends, the dashboard empowers stakeholders to make data-driven decisions, monitor progress, and identify growth opportunities.
-🎯 Objective
+🎯 Objective/n
 The primary goal of this project is to design and develop a comprehensive dashboard that:
 Tracks critical Key Performance Indicators (KPIs) related to car sales.
 Visualizes sales trends and distributions across various dimensions.
 Enables real-time monitoring and strategic analysis of sales data.
 Supports decision-making with interactive charts and detailed grids.
-📊 KPI Requirements
+📊 KPI Requirements/n
 The dashboard includes the following KPIs to provide a holistic view of sales performance:
 🔹 Sales Overview
 Year-to-Date (YTD) Total Sales
